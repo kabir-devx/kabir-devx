@@ -14,19 +14,17 @@
 
 <!-- ================= BADGES ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juwelzan&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/juwelzan?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=kabir-devx&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/kabir-devx?label=Followers&style=social" />
 </p>
 
 ---
 
 ## 🧠 Professional Summary
 
-Flutter developer focused on building scalable, maintainable, and production-ready mobile applications using **Clean Architecture**.
+Web developer focused on building scalable, maintainable, and high-performance web applications using modern development practices and clean architecture principles.
 
-Skilled in UI development, state management, and backend integration using Firebase & Appwrite.
-
----
+Skilled in responsive UI development, frontend-backend integration, API handling, and database management using modern web technologies.
 
 ## ⚙️ Tech Stack
 
