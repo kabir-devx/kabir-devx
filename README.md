@@ -29,55 +29,58 @@ Skilled in responsive UI development, frontend-backend integration, API handling
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,appwrite,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ### 🔧 Core Skills
-- Flutter (UI + Performance Optimization)
-- Dart Programming
+- Frontend Development (HTML, CSS, JavaScript)
+- Responsive Web Design
+- React.js Development
+- Backend Development with Node.js & Express.js
 - REST API Integration
-- Firebase & Appwrite
-- Clean Architecture
-- State Management (GetX / Riverpod / Bloc / Provider)
-
----
+- Database Management (MongoDB / Firebase)
+- Authentication & Authorization
+- Git & GitHub Version Control
+- Clean Code & Scalable Architecture
 
 ## 🚀 Key Projects
 
-### 🛒 Ecommerce Application
-- Product filtering & search system
-- Cart & checkout flow
-- Clean Architecture implementation  
+### 🛒 Ecommerce Website
+- Product filtering and search functionality
+- Shopping cart and checkout system
+- Responsive UI with modern design
+- REST API integration for dynamic product data
 
-🔗 https://github.com/juwelzan/ecommerce  
-
----
-
-### 🎥 YouTube Clone
-- Custom video player UI
-- Responsive design system
-- API-based video loading  
-
-🔗 https://github.com/juwelzan/youtube-clone  
+🔗 https://github.com/juwelzan/ecommerce
 
 ---
 
-### 🍔 Recipe App
-- Category-based filtering
-- Clean UI with smooth UX  
+### 🎥 YouTube Clone (Web App)
+- Responsive video browsing interface
+- Dynamic content loading with API integration
+- Clean and user-friendly UI design
 
-🔗 https://github.com/juwelzan/recipe-app  
+🔗 https://github.com/juwelzan/youtube-clone
+
+---
+
+### 🍔 Recipe Finder Web App
+- Category-based recipe filtering
+- Responsive and clean user interface
+- Smooth user experience with dynamic search features
+
+🔗 https://github.com/juwelzan/recipe-app
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juwelzan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kabir-devx&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juwelzan&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabir-devx&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -85,7 +88,7 @@ Skilled in responsive UI development, frontend-backend integration, API handling
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juwelzan&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabir-devx&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -93,21 +96,5 @@ Skilled in responsive UI development, frontend-backend integration, API handling
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juwelzan/juwelzan/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📬 Contact
-
-<p align="center">
-  <a href="https://facebook.com/juwelzan">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Consistency + Practice = Professional Developer"</i>
+  <img src="https://raw.githubusercontent.com/kabir-devx/kabir-devx/output/github-contribution-grid-snake.svg" />
 </p>
